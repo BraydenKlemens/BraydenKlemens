@@ -1,6 +1,6 @@
 ## Welcome Fellow Programmers ☃️ 
 
-- Check out my work on my website, click [here](https://braydenklemens.github.io/portfolio-website/)
+- Check out my work on my [website](https://braydenklemens.github.io/portfolio-website/)
 
 ## About
 
