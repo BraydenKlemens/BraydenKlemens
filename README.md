@@ -5,7 +5,8 @@
 ### Frameworks
 - **Flutter**: Firebase Authentication, Cloud Firestore, Provider, Local Notifications | **React Native**: Native Base, React Navigation, Redux, Expo | **ReactJS**: Node.js | **AWS**: s3 Storage, Lambda | **Azure & GCP**: Blob Storage, VM creation | **AngularJS**: Angular Material
 ### Tools
-- VS Code, Visual Studio, IntelliJ, Xcode, Android Studio Github, Trello, Figma, Jira, Confluence, Bitbucket, Docker
+- VS Code, Visual Studio, IntelliJ, Xcode, Android Studio
+- Github, Trello, Figma, Jira, Confluence, Bitbucket, Docker
 
 <!--
 **BraydenKlemens/BraydenKlemens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
