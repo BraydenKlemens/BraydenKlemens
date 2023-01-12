@@ -1,10 +1,12 @@
-## Welcome
+## Welcome Fellow Programmers
 
 - Check out my work on my [website](https://braydenklemens.github.io/portfolio-website/)
 
 ## About
 
 - 🔭 Currently working in mobile development in Flutter & React Native
+- Looking for new work experiences
+- Feel free to contact me anytime through my socials or by email
 
 <!--
 **BraydenKlemens/BraydenKlemens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
