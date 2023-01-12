@@ -1,4 +1,4 @@
-## Welcome Fellow Programmers ☃️ 
+## Welcome
 
 - Check out my work on my [website](https://braydenklemens.github.io/portfolio-website/)
 
